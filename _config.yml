@@ -1,9 +1,9 @@
-title:              Clean Blog
+title:              NSKG
 email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+baseurl:            "/nskg"
+url:                "https://Yoojin99.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
@@ -23,3 +23,9 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-polyglot
+  
+languages: ['ja', 'ko', 'en']
+default_lang: 'ko'
+exclude_from_localization: ['javscript', 'images', 'css']
+parallel_localization: false
