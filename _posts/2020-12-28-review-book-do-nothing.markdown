@@ -10,7 +10,6 @@ header-img: img/review/review-book-do-nothing-1.png
   
 > `오 이 부분은 뭘까`  
 
-![표지](https://theorydb.github.io/assets/img/review/review-book-do-nothing-1.png)  
 
 ---
 
